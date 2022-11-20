@@ -1,0 +1,1 @@
+configure_file ("MarioFont.TTF"  ${CMAKE_BINARY_DIR} COPYONLY)
